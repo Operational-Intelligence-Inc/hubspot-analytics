@@ -44,6 +44,8 @@ st.markdown("""
     - `conversations.read`
     - `account-info.security.read`
     - `scheduler.meetings.meeting-link.read`
+    - `crm.objects.companies.read`
+    - `crm.objects.contacts.read`
 """)
 
 # Add submit button for API keys
